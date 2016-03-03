@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ICT QR Reader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ip_log_in">ipLogIn</string>
+    <string name="title_activity_id_checker">ID Checker</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
